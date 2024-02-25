@@ -1,0 +1,45 @@
+.jss1316 {
+  width: 520px;
+  margin: 30px;
+}
+.jss1323 {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+}
+
+.jss99 {
+    margin-top: 10px;
+    text-align: center;
+}
+.welcome{
+    color: rgb(235, 87, 87);
+    font-size: 20px !important;
+    font-weight: 700 !important;
+}
+.jss3{
+    padding: 30px;
+    padding-bottom: 0 !important;
+}
+.jss149{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.jss17{
+    color: white;
+    height: 48px !important;
+    font-weight: 700;
+    margin-bottom: 12px !important;
+}
+.jss550{
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+}
+.jss8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

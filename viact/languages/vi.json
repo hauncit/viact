@@ -1,0 +1,15 @@
+{
+    "user": {
+        "username": "Tên đăng nhập",
+        "password": "Mật khẩu",
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "forfot_password": "Quên mật khẩu ?",
+        "login_google": "Đăng nhập với Google"
+    },
+    "validate": {
+        "field_required": "Thông tin này là bắt buộc"
+    },
+    "title": "Tài khoản -  ",
+    "description": "Trang quản lý tài khoản  "
+}

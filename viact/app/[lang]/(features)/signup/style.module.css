@@ -1,0 +1,83 @@
+.jss750{
+  padding: 30px !important;
+  width: 1000px;
+}
+.jss1323 {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+}
+.jss1357 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.jss59 {
+  color: #eb5757;
+  font-size: 16px !important;
+  margin-left: 5px !important;
+}
+.jss99 {
+    margin-top: 10px;
+    text-align: center;
+}
+.welcome{
+    color: rgb(235, 87, 87);
+    font-size: 20px !important;
+    font-weight: 700 !important;
+}
+.jss3{
+    padding: 30px;
+    padding-bottom: 0 !important;
+}
+.jss149{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.jss17{
+    color: white;
+    height: 48px !important;
+    font-weight: 700;
+    margin-bottom: 12px !important;
+}
+.jss550{
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+}
+.jss8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.jss936{
+  margin-top: 10px;
+  text-align: center;
+}
+.jss753{
+  padding-left: 0;
+  list-style: none;
+}
+.jss753 li {
+  font-size: 16px !important;
+  margin-bottom: 30px !important;
+  color: #4B4C4C !important;
+}
+.jss752 {
+  padding: 20px;
+}
+.jss224{
+  padding-top: 20px;
+  padding: 30px;
+  padding-bottom: 0 !important;
+}
+.jss226 {
+  padding: 0 70px;
+  text-align: center;
+}
+
+
+
+

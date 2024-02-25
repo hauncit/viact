@@ -1,0 +1,30 @@
+version: "3.8"
+
+services:
+  viact-service:
+    build:
+      context: ./viact-service
+      dockerfile: Dockerfile
+    ports:
+      - "4000:4000"
+    env_file:
+      - ./viact-service/.env
+
+  viact:
+    build:
+      context: ./viact
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    env_file:
+      - ./viact/.env
+
+  mysql:
+    image: mysql:8
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: app-db
+      MYSQL_USER: viact
+      MYSQL_PASSWORD: viact
