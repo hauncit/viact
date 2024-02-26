@@ -54,6 +54,9 @@ Follow these steps to set up the Viact application locally:
 
 3. Wait for the Docker containers to finish setting up.
 
+### Troubleshooting
+If you encounter a database connection issue, make sure to update the MYSQL_HOST variable in the source code of the viact-service to the name of the MySQL container used by Docker.
+
 ### Access URLs
 
 - Frontend: [localhost:3000](http://localhost:3000)
